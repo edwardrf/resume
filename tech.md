@@ -1,4 +1,4 @@
-<img align="right" src="images/edwardrf-typeself.jpg" alt="Protrait with Typeself">
+<img align="right" src="images/edwardrf-typeself.jpg" alt="Portrait with Typeself">
 Edward Jiang
 ============
 ###Coder/Hacker/Tech enthusiast
