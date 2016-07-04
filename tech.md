@@ -1,6 +1,8 @@
 <img align="right" src="images/edwardrf-typeself.jpg" alt="Portrait with Typeself">
 Edward Jiang
 ============
++86 13039007723 - edwardrf@gmail.com
+
 ###Coder/Hacker/Tech enthusiast
 * Experienced Software Developer
 * Loves hacking with both software and hardware, combine them to create interesting and useful things
@@ -17,9 +19,11 @@ Skills
 
 Projects
 --------
+<img align="right" src="images/typeself.png"/>
 * Typeself: Converted a old school typewriter to type out images [http://www.typeself.cc](http://www.typeself.cc)
-* Autonomous Sofa: An artist installation project which created an autonomous sofa returns to its original position and obstacle avoidance with only simple sensors. [Exhibition site http://bit.do/asofa](http://bit.do/asofa)
+* Autonomous Sofa: An artist installation project which created an autonomous sofa returns to its original position and obstacle avoidance with only simple sensors.(杨振中-请坐) [Exhibition site: http://bit.do/asofa](http://bit.do/asofa) [http://bit.do/ysofa](http://bit.do/ysofa)
 * Led and Lamp Matrix: Created small 8x8 led matrix as well as a 8x8 IKEA lamp matrix that does animation and can be controlled over the internet
+<img align="right" src="images/sofa.jpg"/>
 * Autonomous robot car: obstacle avoidance using laser and camera to participate in xinchejian autonomous car competition
 * Designed simple analog line follower robot with simple discrete analog components. [http://bit.do/linef](http://bit.do/linef) [http://bit.do/linew](http://bit.do/linew)
 * Model airplane and drone building: 2nd place in shanghai bosch drone competition
