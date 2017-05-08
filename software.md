@@ -17,7 +17,7 @@ Skills
 * Familiar with various popular programming languages: c/c++, java, js (Node.js), golang, lua, python
 * Excellent skills and deep understanding of web technology: HTML5, javascript, css
 * Experienced with databases, indexing engines: MySQL, PgSQL, Redis, DynamoDB etc
-* Very familiar with open source technology: Linux, Nginx, Apache, Docker etc
+* Very familiar with open source technology: Linux, Nginx, Apache, Docker, Git etc
 * Good understanding and basic experience developing with IM platforms (WeChat, Telegram)
 
 Projects
