@@ -43,7 +43,13 @@ Creating an navigation algorithm with limited sensor input with considerable amo
 <img align="right" src="images/sofa.jpg"/>
 
 * Designed simple analog line follower robot with simple discrete analog components. [http://bit.do/linef](http://bit.do/linef) [http://bit.do/linew](http://bit.do/linew)
-* Api log processing and event distribution system using golang. Implementing anomaly detection and cooperate with various 3rd party services
+* High performance api log processing and event distribution system using golang. Implementing anomaly detection and cooperate with various 3rd party services
+
+Related Awards
+--------------
+* 2002 National Olympics of Informatics (Singapore) Silver Medal
+* 2003 National Olympics of Informatics (Singapore) Gold Medal
+* 2003 National Software Competition (Singapore) 2nd Runner Up 
 
 Learning Experience
 -------------------
