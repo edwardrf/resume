@@ -22,11 +22,15 @@ Skills
 
 Projects
 --------
+* [Xtremax Pte Ltd (Singapore)](http://www.xtremax.com/) 
+  * Email and SMS campaign management system using J2EE technology. Achieves simple WYSIWYG editor in web browser in a pre-jQuery, pre-web-framework era.
+  * Working with various opensource and proprietary CMS systems and provide both front-end and backend customization.
+  * Manage all physical servers in datacenter, created virtual server cluster environment with VMware virtualization technology. And later migrated some of the services to AWS cloud.
 * [Tradesparq.com](www.tradesparq.com):
   * Manage the development and product team
   * Architect the product from a site with a few hundred users to a platform with a few hundred thousand user with TBs of data and indexes
   * Evolve the front-end technology from simple jquery to full angularjs web application through several generations of upgrade
-  * Update the backend technology from a single server php site, to containerized cloud based API and services utilizing Node.js, PHP, Golang
+  * Update the backend technology from a single server php site, to containerized cloud based API and services utilizing Node.js, PHP, Golang, deployed in AWS.
   * Develop backend tools to facilitate and monitor the smooth running of the site, focused on automated testing, deployment and real time monitoring
 <img align="right" src="images/typeself.png"/>
 * Typeself: Converted a old school typewriter to type out images [http://www.typeself.cc](http://www.typeself.cc)
@@ -36,6 +40,7 @@ Creating an navigation algorithm with limited sensor input with considerable amo
 * Led and Lamp Matrix: Created small 8x8 led matrix as well as a 8x8 IKEA lamp matrix that does animation and can be controlled over the internet
 <img align="right" src="images/sofa.jpg"/>
 * Designed simple analog line follower robot with simple discrete analog components. [http://bit.do/linef](http://bit.do/linef) [http://bit.do/linew](http://bit.do/linew)
+* Api log processing and event distribution system using golang. Implementing anomaly detection and cooperate with various 3rd party services
 
 Learning Experience
 -------------------
@@ -67,5 +72,4 @@ Beliefs
 -------
 * Measure twice and cut once
 * Less is more: Simple, clean, testable code with clear comments
-* Safety factor of 3.0 is a bare minimum
 * vim is the text editor
