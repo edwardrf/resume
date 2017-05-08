@@ -1,4 +1,5 @@
 <img align="right" src="images/edwardrf-typeself.jpg" alt="Portrait with Typeself">
+
 Edward Jiang
 ============
 +86 13039007723 - edwardrf@gmail.com
@@ -6,7 +7,7 @@ Edward Jiang
 Ability to learn is the key strengh for software developers
 -----------------------------------------------------------
 
-###Coder/Developer/Tech Lead
+### Coder/Developer/Tech Lead
 * Experienced Software Developer
 * Good understanding of software development workflow and team management
 * Familiar with the web and mobile stack of technology, from cloud, container technology, databases, backend, front-end and all the way to js and css
@@ -33,12 +34,14 @@ Projects
   * Update the backend technology from a single server php site, to containerized cloud based API and services utilizing Node.js, PHP, Golang, deployed in AWS.
   * Develop backend tools to facilitate and monitor the smooth running of the site, focused on automated testing, deployment and real time monitoring
 <img align="right" src="images/typeself.png"/>
+
 * Typeself: Converted a old school typewriter to type out images [http://www.typeself.cc](http://www.typeself.cc)
 This project has 2 main challenges, the algorithm to generate the character map which would be physically type out to be a picture, and using HTML and js to create the website to generate a fast enough animation using the exact font the typewriter has.
 * Autonomous Sofa: An artist installation project which created an autonomous sofa returns to its original position and obstacle avoidance with only simple sensors.(杨振中-请坐) [Exhibition site: http://bit.do/asofa](http://bit.do/asofa) [http://bit.do/ysofa](http://bit.do/ysofa)
 Creating an navigation algorithm with limited sensor input with considerable amount of noise is very challenging especially debugging involves hardware in the loop.
 * Led and Lamp Matrix: Created small 8x8 led matrix as well as a 8x8 IKEA lamp matrix that does animation and can be controlled over the internet
 <img align="right" src="images/sofa.jpg"/>
+
 * Designed simple analog line follower robot with simple discrete analog components. [http://bit.do/linef](http://bit.do/linef) [http://bit.do/linew](http://bit.do/linew)
 * Api log processing and event distribution system using golang. Implementing anomaly detection and cooperate with various 3rd party services
 
@@ -60,13 +63,13 @@ Language Skills
 
 Work Experience
 ---------------
-####Xtremax Pte Ltd (Singapore) (2001~2009)
-Started as part time job while still in Junior College and university (2001~2006)
-Joined full time as System Analyst, then became System Architect (2006~2009)
+#### Xtremax Pte Ltd (Singapore) (2001 ~ 2009)
+* Started as part time job while still in Junior College and university (2001 ~ 2006)
+* Joined full time as System Analyst, then became System Architect (2006 ~ 2009)
 
-####Tradesparq Ltd (Shanghai) (2009~2016)
-Joined as Team Lead in 2009
-Expanded the team from 3 people to 12 and became the CTO in 2014
+#### Tradesparq Ltd (Shanghai) (2009 ~ 2016)
+* Joined as Team Lead in 2009
+* Expanded the team from 3 people to 12 and became the CTO in 2014
 
 Beliefs
 -------
