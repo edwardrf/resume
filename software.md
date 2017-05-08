@@ -2,16 +2,18 @@
 
 Edward Jiang
 ============
-+86 13039007723 - edwardrf@gmail.com
++86 13039007723 - edwardrf@gmail.com 
+https://github.com/edwardrf/
 
 Ability to learn is the key strengh for software developers
 -----------------------------------------------------------
 
-### Coder/Developer/Tech Lead
+### Coder/Developer/Tech Lead/Hacker
 * Experienced Software Developer
 * Good understanding of software development workflow and team management
 * Familiar with the web and mobile stack of technology, from cloud, container technology, databases, backend, front-end and all the way to js and css
 * Interested in following the progress of cutting edge software technology and eager to practice them in real life project
+* Stakeholder of the first Hackerspace in Shanghai XinCheJian
 
 Skills
 ------
@@ -45,6 +47,12 @@ Creating an navigation algorithm with limited sensor input with considerable amo
 * Designed simple analog line follower robot with simple discrete analog components. [http://bit.do/linef](http://bit.do/linef) [http://bit.do/linew](http://bit.do/linew)
 * High performance api log processing and event distribution system using golang. Implementing anomaly detection and cooperate with various 3rd party services
 
+Qulifications
+-------------
+* Bachelor of Science with Merit on 30th June 2008. Major in Computational science (specialising in physics)
+* GCE 'A' Levels
+* GCE 'O' Levels
+
 Related Awards
 --------------
 * 2002 National Olympics of Informatics (Singapore) Silver Medal
@@ -60,6 +68,7 @@ Learning Experience
 * Exposed to early web programming using java by doing J2EE web applications and websites
 * Graduated from National University of Singapore, Major in Computational Physics, first hand experience with high performance computing and parallel computing
 * Student exchange to Université Pierre-et-Marie-Curie (Paris VI)
+* Currently working on an opensouce VPN https://github.com/jingqiuELE/tinyvpn
 
 Language Skills
 ---------------
@@ -77,8 +86,15 @@ Work Experience
 * Joined as Team Lead in 2009
 * Expanded the team from 3 people to 12 and became the CTO in 2014
 
+#### Free lancing (Shanghai) (2016 ~ now)
+* [italki](www.italki.com) Technical consulting and Implementing log processing and online chatting system in golang.
+* [Westwell Labs](http://www.westwell-lab.com/index_en.html) Vairous projects including constructing autonoous robot platform.
+* Various works with international advertising agencies implementing projects combining software and hardware.
+
 Beliefs
 -------
 * Measure twice and cut once
 * Less is more: Simple, clean, testable code with clear comments
 * vim is the text editor
+
+An up-to-date online copy cannot be found at https://github.com/edwardrf/resume/blob/master/software.md
