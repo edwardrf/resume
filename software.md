@@ -49,7 +49,7 @@ Creating an navigation algorithm with limited sensor input with considerable amo
 
 Qulifications
 -------------
-* Bachelor of Science with Merit on 30th June 2008. Major in Computational science (specialising in physics)
+* Bachelor of Science with Merit on 30th June 2008. Major in Computational science (specialising in physics) National University of Singapore
 * GCE 'A' Levels
 * GCE 'O' Levels
 
